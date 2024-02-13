@@ -7,3 +7,5 @@ Each time you make a guess, the computer will tell you if your guess is too low 
 If you guess the number correctly within your 7 tries, you get a happy message!
 If you don't guess the number in 7 tries, the game ends, and the computer tells you what the secret number was.
 It's a simple guessing game to test your luck and see if you can figure out the computer's secret number with a limited number of guesses.
+
+*can be run by entering g++ main.cpp into your terminal, click enter, then type ./a.out
